@@ -1,0 +1,10 @@
+@article{mithun2012detection,
+  title={Detection and classification of vehicles from video using multiple time-spatial images},
+  author={Mithun, Niluthpol Chowdhury and Rashid, Nafi Ur and Rahman, SM Mahbubur},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={13},
+  number={3},
+  pages={1215--1225},
+  year={2012},
+  publisher={IEEE}
+}
